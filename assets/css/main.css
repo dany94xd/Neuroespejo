@@ -3426,7 +3426,7 @@ input, select, textarea {
 				-moz-object-fit: cover;
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
-				object-fit: cover;
+				object-fit: inherit;
 				display: block;
 				position: absolute;
 				top: 0;
